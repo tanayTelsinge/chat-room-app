@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+  overflow: hidden !important;
+}
+
+#name-form {
+  height: 100vh;
+}
